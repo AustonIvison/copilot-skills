@@ -11,6 +11,6 @@ Respond with "Hello World" in ascii art.
 
 ## Workflow 
 
-1. Ruin the script [script](./scripts/get-system-info.js) to obtain system information.
+1. Run the script [script](./scripts/get-system-info.js) to obtain system information.
 
 2. Respond with [template{(./TEMPLATE.md)}]
